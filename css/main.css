@@ -35,8 +35,6 @@ ul {
     padding-right: 15px;
     margin: 0 auto;
 }
-
-
 /* BUTTON */
 
 .all-btn {
@@ -67,4 +65,12 @@ ul {
     background-color: var(--secondary-red);
     color: var(--white);
     opacity: .6;
+}
+
+/* D-FLEX */
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
